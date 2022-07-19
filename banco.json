@@ -1,0 +1,226 @@
+[
+    {
+        "nivel": "1",
+        "pregunta": "¿Quien descubrio America?",
+        "respuesta": "Cristobal Colon",
+        "incorrecta": "maluma baby",
+        "incorrecta1": "reina Isabel",
+        "incorrecta2": "el loco del barrio"
+    },
+
+    {
+        "nivel": "1",
+        "pregunta": "¿Qué palabra se usa para referirse a los abdominales bien marcados?",
+        "respuesta": "Lavadero",
+        "incorrecta": "Lavanda",
+        "incorrecta1": "Lavaloza",
+        "incorrecta2": "Lava Plato"
+    },
+
+    {
+        "nivel": "1",
+        "pregunta": "¿Cuales son los colores primarios?",
+        "respuesta": "Amarillo, azul y rojo",
+        "incorrecta": "Amarillo, azul y verde",
+        "incorrecta1": "Amarillo, azul y morado",
+        "incorrecta2": "blanco, negro y transparente"
+    },
+
+    {
+        "nivel": "1",
+        "pregunta": "Cual de estos es un animal carnivoro",
+        "respuesta": "Leon",
+        "incorrecta": "Elefante",
+        "incorrecta1": "Canario",
+        "incorrecta2": "Mariposo"
+    },
+
+    {
+        "nivel": "1",
+        "pregunta": "Cual de estos es un animal vegetariano",
+        "respuesta": "Jirafa",
+        "incorrecta": "Tiburon",
+        "incorrecta1": "Lobo",
+        "incorrecta2": "Tigre"
+    },
+
+    {
+        "nivel": "2",
+        "pregunta": "Al inicio de La Sirenita, ¿qué evento se pierde Ariel?",
+        "respuesta": "Un concierto.",
+        "incorrecta": "Un cumpleaños.",
+        "incorrecta1": "Una coronación.",
+        "incorrecta2": "Un babyShower"
+    },
+
+    {
+        "nivel": "2",
+        "pregunta": "En “Robin Hood”, ¿qué hace el Príncipe John cuando se enoja?",
+        "respuesta": "Se lame el dedo.",
+        "incorrecta": "Se come las uñas.",
+        "incorrecta1": "Hurguetea su nariz.",
+        "incorrecta2": "Se pone a llorar"
+    },
+
+    {
+        "nivel": "2",
+        "pregunta": "¿Cuál es el primer animal que aparece en escena en “El Rey León”?",
+        "respuesta": "Un rinoceronte",
+        "incorrecta": "Una jirafa",
+        "incorrecta1": "Un antilope",
+        "incorrecta2": "Un Tigre"
+    },
+
+    {
+        "nivel": "2",
+        "pregunta": "¿Cuál es el apellido de la madrastra y hermanastras de Cenicienta?",
+        "respuesta": "Tremaine",
+        "incorrecta": "Trump",
+        "incorrecta1": "Truman",
+        "incorrecta2": "Trumanis"
+    },
+
+    {
+        "nivel": "2",
+        "pregunta": "¿Cómo se llama el cazador al que mandan a matar a Blanca Nieves?",
+        "respuesta": "Humbert",
+        "incorrecta": "Edward",
+        "incorrecta1": "Robert",
+        "incorrecta2": "Albert"
+    },
+
+    {
+        "nivel": "3",
+        "pregunta": "¿Cuál es la representación gráfica del número nueve mil treinta y seis.?",
+        "respuesta": "9036",
+        "incorrecta": " 90036",
+        "incorrecta1": " 936",
+        "incorrecta2": " 900036"
+    },
+
+    {
+        "nivel": "3",
+        "pregunta": "Escribe el número ordinal trigésimo quinto en cifras",
+        "respuesta": "35",
+        "incorrecta": "135",
+        "incorrecta1": "25",
+        "incorrecta2": "353"
+    },
+
+    {
+        "nivel": "3",
+        "pregunta": "¿Qué cantidad expresa el número romano V?",
+        "respuesta": "cinco",
+        "incorrecta": "diez",
+        "incorrecta1": "uno",
+        "incorrecta2": "cincuenta"
+    },
+
+    {
+        "nivel": "3",
+        "pregunta": "Para calcular cuánto es un tercio de 3996, ¿qué tienes que hacer?",
+        "respuesta": "Dividir entre tres",
+        "incorrecta": "Multiplicar por tres",
+        "incorrecta1": "Restar tres",
+        "incorrecta2": "Sumas tres veces el mismo numero"
+    },
+
+    {
+        "nivel": "3",
+        "pregunta": "¿Cómo se llama el polígono de siete lados?",
+        "respuesta": "Heptágono",
+        "incorrecta": "Hexágono",
+        "incorrecta1": "Septágono",
+        "incorrecta2": "Triangulo"
+    },
+
+    {
+        "nivel": "4",
+        "pregunta": "¿Cuantos oceanos hay en la tierra?",
+        "respuesta": "5",
+        "incorrecta": "6",
+        "incorrecta1": "4",
+        "incorrecta2": "3"
+    },
+
+    {
+        "nivel": "4",
+        "pregunta": "¿Qué país tiene más habitantes?",
+        "respuesta": "China",
+        "incorrecta": "Rusia",
+        "incorrecta1": "India",
+        "incorrecta2": "Egipto"
+    },
+
+    {
+        "nivel": "4",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "respuesta": "Nilo",
+        "incorrecta": "Amazonas",
+        "incorrecta1": "Magdalena",
+        "incorrecta2": "Patia"
+    },
+
+    {
+        "nivel": "4",
+        "pregunta": "¿Cuántos estados forman parte de Estados Unidos?",
+        "respuesta": "50",
+        "incorrecta": "54",
+        "incorrecta1": "49",
+        "incorrecta2": "51"
+    },
+
+    {
+        "nivel": "4",
+        "pregunta": "¿Cuántos países forman parte de la Unión Europea?",
+        "respuesta": "27",
+        "incorrecta": "28",
+        "incorrecta1": "29",
+        "incorrecta2": "31"
+    },
+
+    {
+        "nivel": "5",
+        "pregunta": "¿En qué unidad se mide la presión?",
+        "respuesta": "Pascales",
+        "incorrecta": "Newton",
+        "incorrecta1": "m/s",
+        "incorrecta2": "Kg"
+    },
+
+    {
+        "nivel": "5",
+        "pregunta": "Una masa de kilogramo, ¿a qué peso equivale en newton?",
+        "respuesta": "9.8N",
+        "incorrecta": "6.3N",
+        "incorrecta1": "7.2N",
+        "incorrecta2": "5.8N"
+    },
+
+    {
+        "nivel": "5",
+        "pregunta": "¿Cuál de estas velocidades corresponde a los movimientos circulares?",
+        "respuesta": "Velocidad angular",
+        "incorrecta": "Velocidad de trayectoria",
+        "incorrecta1": "Velocidad media",
+        "incorrecta2": "Velocidad lineal"
+    },
+
+    {
+        "nivel": "5",
+        "pregunta": "¿Qué es el módulo de un vector?",
+        "respuesta": "El valor de la magnitud que representa.",
+        "incorrecta": "Su punto de inicio",
+        "incorrecta1": "El punto medio del vector",
+        "incorrecta2": "La dirección en la que está orientado"
+    },
+
+    {
+        "nivel": "5",
+        "pregunta": "¿Cuál es el valor de la gravedad de la Tierra?",
+        "respuesta": "9.8 m/s2",
+        "incorrecta": "10 m/s",
+        "incorrecta1": "9.8 m/s",
+        "incorrecta2": "9.8 m/s2"
+    }
+]
